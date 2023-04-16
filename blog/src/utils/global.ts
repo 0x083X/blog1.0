@@ -1,0 +1,1 @@
+export const githubUrl:string = "https://github.com/0x083X?tab=repositories"
