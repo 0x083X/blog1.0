@@ -1,6 +1,0 @@
-*.md linguist-language=md 
-*.html linguist-language=html
-*.vue linguist-language=vue
-*.js linguist-language=js 
-*.ts linguist-language=ts 
-
